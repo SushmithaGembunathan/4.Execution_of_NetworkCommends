@@ -29,7 +29,7 @@ This commands includes
 ## Output
 ![Screenshot 2025-04-17 134930](https://github.com/user-attachments/assets/94e6ba5a-3124-41b2-b61e-29b6eddbfbd7)
 ![Screenshot 2025-04-17 135901](https://github.com/user-attachments/assets/8a94ae71-18c0-4aa9-8efa-f55b1bf4b6fa)
-![Screenshot 2025-04-17 140750](https://github.com/user-attachments/assets/b290dafa-133f-47c2-a7a0-e2664bd42203)
+
 
 ## Result
 Thus Execution of Network commands Performed 
